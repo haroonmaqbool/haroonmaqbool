@@ -12,8 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haroonmaqbool&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haroonmaqbool&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-.![](https://github-profile-trophy.vercel.app/?username=haroonmaqbool&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=haroonmaqbool&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
