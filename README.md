@@ -21,4 +21,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonmaqbool&label=Profile%20views&color=ff0000&style=plastic" alt="haroonmaqbool" /> </p>
+<img src="https://komarev.com/ghpvc/?username=haroonmaqbool&label=Profile%20views&color=ff0000&style=plastic" alt="haroonmaqbool" /> 
