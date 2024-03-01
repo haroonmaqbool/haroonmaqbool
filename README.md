@@ -13,7 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haroonmaqbool&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=haroonmaqbool)](https://github.com/haroonmaqbool/github-profile-trophy)
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
