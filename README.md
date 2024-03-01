@@ -21,10 +21,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonmaqbool&label=Profile%20views&color=ff0000&style=plastic" alt="haroonmaqbool" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
