@@ -13,6 +13,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haroonmaqbool&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+.![](https://github-profile-trophy.vercel.app/?username=haroonmaqbool&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -21,5 +22,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=haroonmaqbool&style=flat-square)
+[![](https://visitcount.itsvg.in/api?id=haroonmaqbool&icon=1&color=1)](https://visitcount.itsvg.in)
